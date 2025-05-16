@@ -1,4 +1,4 @@
-
+# Attendance Manager
 - Create a `TrainingImage` folder in a project folder.
 - open `attendance.py` and `automaticAttendance.py`, change all the path according to your system
 - Run `attandance.py` file
